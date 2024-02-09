@@ -1,0 +1,7 @@
+<ul>
+    @for(item of $items| async; track item.id){
+    <li><a [routerLink]="'/details/' + item?.id">{{item?.title}}</a></li>
+    } @empty {
+    <li> There are no items. </li>
+    }
+</ul>

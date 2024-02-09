@@ -1,0 +1,10 @@
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    a {
+        font-size: 20px;
+        color: white;
+    }
+}

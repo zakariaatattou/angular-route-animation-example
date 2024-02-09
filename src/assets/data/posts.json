@@ -1,0 +1,136 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Introduction to JSON",
+            "author": "John Doe",
+            "content": "JSON (JavaScript Object Notation) is a lightweight data-interchange format...",
+            "tags": [
+                "JSON",
+                "Data",
+                "Format"
+            ],
+            "date": "2024-02-09",
+            "likes": 25
+        },
+        {
+            "id": 2,
+            "title": "Getting Started with Python",
+            "author": "Jane Smith",
+            "content": "Python is a versatile programming language known for its readability and ease of use...",
+            "tags": [
+                "Python",
+                "Programming",
+                "Beginner"
+            ],
+            "date": "2024-02-10",
+            "likes": 42
+        },
+        {
+            "id": 3,
+            "title": "Web Development Tips",
+            "author": "Alex Johnson",
+            "content": "Learn essential tips for effective web development, including responsive design and performance optimization...",
+            "tags": [
+                "Web Development",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "date": "2024-02-11",
+            "likes": 18
+        },
+        {
+            "id": 4,
+            "title": "Machine Learning Basics",
+            "author": "Elena Rodriguez",
+            "content": "Explore the fundamentals of machine learning, including supervised and unsupervised learning...",
+            "tags": [
+                "Machine Learning",
+                "AI",
+                "Data Science"
+            ],
+            "date": "2024-02-12",
+            "likes": 35
+        },
+        {
+            "id": 5,
+            "title": "Healthy Eating Habits",
+            "author": "David Brown",
+            "content": "Discover the importance of maintaining healthy eating habits for overall well-being...",
+            "tags": [
+                "Health",
+                "Nutrition",
+                "Wellness"
+            ],
+            "date": "2024-02-13",
+            "likes": 28
+        },
+        {
+            "id": 1,
+            "title": "Introduction to JSON",
+            "author": "John Doe",
+            "content": "JSON (JavaScript Object Notation) is a lightweight data-interchange format...",
+            "tags": [
+                "JSON",
+                "Data",
+                "Format"
+            ],
+            "date": "2024-02-09",
+            "likes": 25
+        },
+        {
+            "id": 2,
+            "title": "Getting Started with Python",
+            "author": "Jane Smith",
+            "content": "Python is a versatile programming language known for its readability and ease of use...",
+            "tags": [
+                "Python",
+                "Programming",
+                "Beginner"
+            ],
+            "date": "2024-02-10",
+            "likes": 42
+        },
+        {
+            "id": 3,
+            "title": "Web Development Tips",
+            "author": "Alex Johnson",
+            "content": "Learn essential tips for effective web development, including responsive design and performance optimization...",
+            "tags": [
+                "Web Development",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "date": "2024-02-11",
+            "likes": 18
+        },
+        {
+            "id": 4,
+            "title": "Machine Learning Basics",
+            "author": "Elena Rodriguez",
+            "content": "Explore the fundamentals of machine learning, including supervised and unsupervised learning...",
+            "tags": [
+                "Machine Learning",
+                "AI",
+                "Data Science"
+            ],
+            "date": "2024-02-12",
+            "likes": 35
+        },
+        {
+            "id": 5,
+            "title": "Healthy Eating Habits",
+            "author": "David Brown",
+            "content": "Discover the importance of maintaining healthy eating habits for overall well-being...",
+            "tags": [
+                "Health",
+                "Nutrition",
+                "Wellness"
+            ],
+            "date": "2024-02-13",
+            "likes": 28
+        }
+    ]
+}
