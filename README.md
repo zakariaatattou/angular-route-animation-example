@@ -1,5 +1,7 @@
 # Angular Route Animation Example
 
+![ScreenRecording2024-02-09at13 49 25-ezgif com-video-to-gif-converter](https://github.com/lonewolfzak/angular-route-animation-example/assets/49722575/279b9b71-c19b-4df6-9a1e-0243d131bc73)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
 ## Development server
